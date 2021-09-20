@@ -11,4 +11,4 @@ Dalam paradigma ini semua data dan method dibungkus dalam kelas kelas atau objek
 
 ## Diagram Class
 
-<img alt="alt_text" height="500" src="D:\project-java\introduce-java\design-oop.png" width="500"/>
+<img alt="alt_text" height="500" src="https://github.com/MasKoding/IntroductionOOP/blob/main/design-oop.pnghttps://github.com/MasKoding/IntroductionOOP/blob/main/design-oop.png" width="500"/>
