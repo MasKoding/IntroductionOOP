@@ -1,6 +1,6 @@
 ##  Java OOP (Object Oriented Programming)
 
-#Introduction OOP
+## Introduction OOP
 Pemrograman Berorientasi Object atau disingkat OOP merupakan paradigma pemrograman berdasarkan konsep objek yang berisi attribut atau field serta method atau function.
 
 Dalam paradigma ini semua data dan method dibungkus dalam kelas kelas atau objek objek.
@@ -13,6 +13,16 @@ Dalam paradigma ini semua data dan method dibungkus dalam kelas kelas atau objek
 
 <img alt="alt_text" height="500" src="https://github.com/MasKoding/IntroductionOOP/blob/main/design-oop.png" width="500"/>
 
+## Struktur Project
+<pre>
+ProjectName
+└───org
+    └───dimas
+        └───learn
+                Main.java
+                User.java
+
+</pre>
 
 ## Implementasi 
 1. Buat class User  dengan nama file User.java dan ketikkan kode seperti dibawah ini:
